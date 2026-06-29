@@ -6,7 +6,7 @@ Demonstrates how to run a single simulation with the MGA framework,
 generate plots, and export data.
 
 Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology
-Companion paper DOI: 10.5281/zenodo.21015494
+Companion paper DOI: 10.5281/zenodo.21041476
 """
 
 import sys

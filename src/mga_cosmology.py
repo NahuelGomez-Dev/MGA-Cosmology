@@ -21,7 +21,7 @@ Unit system:
 
 Author: Nahuel Gomez (ORCID: 0009-0006-4420-2685)
 Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology
-Companion paper DOI: 10.5281/zenodo.21015494
+Companion paper DOI: 10.5281/zenodo.21041476
 """
 
 import numpy as np
@@ -651,7 +651,7 @@ class MGACosmology:
         header_lines = [
             "# MGA Cosmology — Simulation Raw Data",
             "# Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology",
-            "# Companion paper DOI: 10.5281/zenodo.21015494",
+            "# Companion paper DOI: 10.5281/zenodo.21041476",
             f"# Generated: {m['timestamp']}",
             "#",
             "# MODEL PARAMETERS:",

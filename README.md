@@ -2,14 +2,14 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.5281/zenodo.21015494-blue.svg)](https://doi.org/10.5281/zenodo.21015494)
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.5281/zenodo.21041476-blue.svg)](https://doi.org/10.5281/zenodo.21041476)
 [![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21040659.svg)](https://doi.org/10.5281/zenodo.21040659)
 
 > **Numerical validation of the Matrioshka-Genesis-Accretion (MGA) cosmological framework**: a modified braneworld cosmology with Einstein–Cartan torsion-induced quantum bounce and emergent dark energy from interfacial vacuum flux.
 
 **Author:** Nahuel Gómez  
 **ORCID:** [0009-0006-4420-2685](https://orcid.org/0009-0006-4420-2685)  
-**Companion paper:** *MGA Cosmology V1.2* — [DOI: 10.5281/zenodo.21015494](https://doi.org/10.5281/zenodo.21015494)
+**Companion paper:** *MGA Cosmology V1.3* — [DOI: 10.5281/zenodo.21041476](https://doi.org/10.5281/zenodo.21041476)
 
 ---
 
@@ -190,8 +190,8 @@ If you use this code or the underlying theory in your research, please cite:
                   Flux, and Closed Modified Friedmann Equations},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21015494},
-  note         = {Version 1.2}
+  doi          = {10.5281/zenodo.21041476},
+  note         = {Version 1.3}
 }
 ```
 
