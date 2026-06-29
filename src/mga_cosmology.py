@@ -19,8 +19,9 @@ Governing equations:
 Unit system:
     8πG = 1, c = 1, ℏ = 1, a(t_bounce) = 1
 
-Companion paper: DOI 10.5281/zenodo.21038370
 Author: Nahuel Gomez (ORCID: 0009-0006-4420-2685)
+Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology
+Companion paper DOI: 10.5281/zenodo.21015494
 """
 
 import numpy as np
@@ -373,7 +374,6 @@ class MGACosmology:
             print("=" * 70)
             print(" MGA COSMOLOGY — NUMERICAL SIMULATION")
             print(" Matrioshka-Genesis-Accretion Framework")
-            print(" Companion paper: DOI 10.5281/zenodo.21038370")
             print("=" * 70)
             print(f"\n[CONFIG] Model parameters:")
             print(f"  w_m (radiation)  = {self.params.w_m}")
@@ -650,8 +650,8 @@ class MGACosmology:
         # Build metadata header
         header_lines = [
             "# MGA Cosmology — Simulation Raw Data",
-            "# Companion paper DOI: 10.5281/zenodo.21038370",
             "# Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology",
+            "# Companion paper DOI: 10.5281/zenodo.21015494",
             f"# Generated: {m['timestamp']}",
             "#",
             "# MODEL PARAMETERS:",
@@ -723,7 +723,7 @@ class MGACosmology:
         summary = f"""
 ================================================================================
   MGA COSMOLOGY — SIMULATION SUMMARY
-  DOI: 10.5281/zenodo.21038370
+  Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology
 ================================================================================
 
   BOUNCE CHARACTERISTICS:

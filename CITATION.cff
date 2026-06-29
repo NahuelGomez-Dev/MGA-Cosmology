@@ -6,12 +6,11 @@ authors:
   - family-names: "Gómez"
     given-names: "Nahuel"
     orcid: "https://orcid.org/0009-0006-4420-2685"
-doi: "10.5281/zenodo.21038370"
-date-released: "2026-06-29"
+date-released: "2026-06-30"
 version: "1.0.0"
 license: "MIT"
 repository-code: "https://github.com/NahuelGomez-Dev/MGA-Cosmology"
-url: "https://doi.org/10.5281/zenodo.21038370"
+url: "https://github.com/NahuelGomez-Dev/MGA-Cosmology"
 keywords:
   - cosmology
   - general-relativity
@@ -22,3 +21,13 @@ keywords:
   - numerical-simulation
   - python
 type: software
+references:
+  - type: article
+    title: "MGA Cosmology: Effective Braneworld Cosmology with Einstein-Cartan Torsion, Derived Interfacial Vacuum Flux, and Closed Modified Friedmann Equations"
+    authors:
+      - family-names: "Gómez"
+        given-names: "Nahuel"
+        orcid: "https://orcid.org/0009-0006-4420-2685"
+    year: 2026
+    doi: "10.5281/zenodo.21015494"
+    notes: "Companion paper (Version 1.2)"

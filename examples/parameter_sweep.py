@@ -12,7 +12,8 @@ From Eq. 6.8 of the companion paper:
 
 So different values of Γ correspond to different parent BH masses.
 
-Companion paper: DOI 10.5281/zenodo.21038370
+Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology
+Companion paper DOI: 10.5281/zenodo.21015494
 """
 
 import sys

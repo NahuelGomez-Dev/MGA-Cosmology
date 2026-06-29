@@ -2,13 +2,14 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21038370.svg)](https://doi.org/10.5281/zenodo.21038370)
+[![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.5281/zenodo.21015494-blue.svg)](https://doi.org/10.5281/zenodo.21015494)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 > **Numerical validation of the Matrioshka-Genesis-Accretion (MGA) cosmological framework**: a modified braneworld cosmology with Einstein–Cartan torsion-induced quantum bounce and emergent dark energy from interfacial vacuum flux.
 
 **Author:** Nahuel Gómez  
 **ORCID:** [0009-0006-4420-2685](https://orcid.org/0009-0006-4420-2685)  
-**Companion paper:** *MGA Cosmology V1.2* — [DOI: 10.5281/zenodo.21038370](https://doi.org/10.5281/zenodo.21038370)
+**Companion paper:** *MGA Cosmology V1.2* — [DOI: 10.5281/zenodo.21015494](https://doi.org/10.5281/zenodo.21015494)
 
 ---
 
@@ -178,7 +179,7 @@ If you use this code or the underlying theory in your research, please cite:
   title        = {MGA Cosmology: Numerical Simulation Framework},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.21038370},
+  doi          = {10.5281/zenodo.XXXXXXX},
   url          = {https://github.com/NahuelGomez-Dev/MGA-Cosmology}
 }
 
@@ -188,7 +189,8 @@ If you use this code or the underlying theory in your research, please cite:
                   Einstein–Cartan Torsion, Derived Interfacial Vacuum 
                   Flux, and Closed Modified Friedmann Equations},
   year         = {2026},
-  doi          = {10.5281/zenodo.21038370},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.21015494},
   note         = {Version 1.2}
 }
 ```
@@ -219,7 +221,6 @@ The companion paper is licensed under **Creative Commons Attribution 4.0 Interna
 
 ## 🔗 Links
 
-- **Paper (Zenodo):** [DOI: 10.5281/zenodo.21038370](https://doi.org/10.5281/zenodo.21038370)
 - **Repository:** [github.com/NahuelGomez-Dev/MGA-Cosmology](https://github.com/NahuelGomez-Dev/MGA-Cosmology)
 - **Author ORCID:** [0009-0006-4420-2685](https://orcid.org/0009-0006-4420-2685)
 

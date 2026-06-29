@@ -7,7 +7,8 @@ MGA cosmological simulation framework.
 
 Run with: pytest tests/ -v
 
-Companion paper: DOI 10.5281/zenodo.21038370
+Repository: https://github.com/NahuelGomez-Dev/MGA-Cosmology
+Companion paper DOI: 10.5281/zenodo.21015494
 """
 
 import sys
@@ -236,14 +237,15 @@ class TestOutputs:
         content = csv_path.read_text()
         assert len(content) > 1000, "CSV file seems too short"
         assert "MGA Cosmology" in content, "CSV missing header"
-        assert "10.5281/zenodo.21038370" in content, "CSV missing DOI"
+        assert "github.com/NahuelGomez-Dev/MGA-Cosmology" in content, "CSV missing repo URL"
+        assert "10.5281/zenodo.21015494" in content, "CSV missing paper DOI"
 
     def test_summary_generation(self, default_sim, default_results):
         """Test that summary string is generated."""
         summary = default_sim.summary()
         assert isinstance(summary, str)
         assert "BOUNCE" in summary
-        assert "10.5281/zenodo.21038370" in summary
+        assert "github.com/NahuelGomez-Dev/MGA-Cosmology" in summary
 
 
 # =============================================================================
