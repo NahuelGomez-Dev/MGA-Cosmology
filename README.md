@@ -1,9 +1,9 @@
-# MGA Cosmology — Numerical Simulation Framework
+﻿# MGA Cosmology — Numerical Simulation Framework
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Paper DOI](https://img.shields.io/badge/Paper%20DOI-10.5281/zenodo.21015494-blue.svg)](https://doi.org/10.5281/zenodo.21015494)
-[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21040659.svg)](https://doi.org/10.5281/zenodo.21040659)
 
 > **Numerical validation of the Matrioshka-Genesis-Accretion (MGA) cosmological framework**: a modified braneworld cosmology with Einstein–Cartan torsion-induced quantum bounce and emergent dark energy from interfacial vacuum flux.
 
@@ -179,7 +179,7 @@ If you use this code or the underlying theory in your research, please cite:
   title        = {MGA Cosmology: Numerical Simulation Framework},
   year         = {2026},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
+  doi          = {10.5281/zenodo.21040659},
   url          = {https://github.com/NahuelGomez-Dev/MGA-Cosmology}
 }
 
