@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "MGA Cosmology: Numerical Simulation Framework"
+abstract: "Numerical validation of the Matrioshka-Genesis-Accretion (MGA) cosmological framework: a modified braneworld cosmology with Einstein-Cartan torsion-induced quantum bounce and emergent dark energy from interfacial vacuum flux."
+authors:
+  - family-names: "Gómez"
+    given-names: "Nahuel"
+    orcid: "https://orcid.org/0009-0006-4420-2685"
+doi: "10.5281/zenodo.21038370"
+date-released: "2026-06-29"
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/NahuelGomez-Dev/MGA-Cosmology"
+url: "https://doi.org/10.5281/zenodo.21038370"
+keywords:
+  - cosmology
+  - general-relativity
+  - einstein-cartan
+  - quantum-bounce
+  - dark-energy
+  - braneworld
+  - numerical-simulation
+  - python
+type: software
